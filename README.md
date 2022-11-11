@@ -237,6 +237,7 @@ In this section, you create a function app and related resources in your Azure s
 ![image](https://user-images.githubusercontent.com/15844801/201359990-c5e4ebf9-c462-4944-b11f-bdb805cfcf1c.png)
 1. Select Deploy to Function App..., choose the function app you just created, and select Deploy.
 1. After deployment completes, select View Output to view the creation and deployment results, including the Azure resources that you created. If you miss the notification, select the bell icon in the lower right corner to see it again.
+
 ![image](https://user-images.githubusercontent.com/15844801/201360056-447d5ebf-4c94-4fcc-b6a5-643dfd587fa9.png)
 
 ## Run the function in Azure
