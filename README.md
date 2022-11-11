@@ -7,6 +7,9 @@ Custom handlers can be used to create functions in any language
 or runtime by running an HTTP server process. This example supports Rust.
 
 Completing this quickstart incurs a small cost of a few USD cents or less in your Azure account.
+<img width="1680" alt="Screenshot 2565-11-11 at 21 54 24" src="https://user-images.githubusercontent.com/15844801/201365763-3cf95729-3ea2-4022-93df-c099b2c30e39.png">
+
+<img width="936" alt="Screenshot 2565-11-11 at 21 57 39" src="https://user-images.githubusercontent.com/15844801/201366308-7b4bff6a-70a6-41ad-af43-ca10bb4e02ce.png">
 
 ## Create your local project
 
